@@ -1,5 +1,5 @@
 # Projetoapl1
-# Análise do Suporte de TI em Tickets de Atendimento usando a IA
+ Análise do Suporte de TI em Tickets de Atendimento usando a IA
 
  Objetivo
 O objetivo deste projeto é examinar dados de tickets de suporte de TI, visando identificar padrões, problemas frequentes e oportunidades para aprimorar o atendimento ao cliente.
@@ -14,10 +14,10 @@ O suporte técnico é essencial para garantir o funcionamento dos sistemas e a s
 - Link: https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets/data
 
   Etapas do Projeto
-1. Definição do tema e dataset
-2. Objetivos
-3. Visualização e insights
-4. Apresentação final
+1.  Definição do tema e dataset
+2.  Objetivos
+3.  Visualização e insights
+4.  Apresentação final
 
-5. E-mail:
+5. E-mail para contato:
    samyacsdev@gmail.com - Samya
