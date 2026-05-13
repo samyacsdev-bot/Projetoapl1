@@ -1,0 +1,93 @@
+# =========================================
+# ANÁLISE EXPLORATÓRIA DE TICKETS DE TI
+# =========================================
+
+# Bibliotecas
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Configuração visual
+plt.style.use('ggplot')
+
+# =========================================
+# LEITURA DOS DADOS
+# =========================================
+
+df = pd.read_csv('data/tickets.csv')
+
+# =========================================
+# VISUALIZAÇÃO INICIAL
+# =========================================
+
+print(df.head())
+print(df.info())
+print(df.describe())
+
+# =========================================
+# VALORES AUSENTES
+# =========================================
+
+print(df.isnull().sum())
+
+# =========================================
+# DISTRIBUIÇÃO DE PRIORIDADES
+# =========================================
+
+plt.figure(figsize=(8,5))
+sns.countplot(data=df, x='priority')
+plt.title('Distribuição de Tickets por Prioridade')
+plt.xlabel('Prioridade')
+plt.ylabel('Quantidade')
+plt.show()
+
+# =========================================
+# DISTRIBUIÇÃO POR IDIOMA
+# =========================================
+
+plt.figure(figsize=(10,5))
+df['language'].value_counts().plot(kind='bar')
+plt.title('Distribuição por Idioma')
+plt.xlabel('Idioma')
+plt.ylabel('Quantidade')
+plt.show()
+
+# =========================================
+# TEMPO DE RESOLUÇÃO
+# =========================================
+
+plt.figure(figsize=(8,5))
+sns.histplot(df['resolution_time'], bins=30, kde=True)
+plt.title('Distribuição do Tempo de Resolução')
+plt.xlabel('Horas')
+plt.ylabel('Frequência')
+plt.show()
+
+# =========================================
+# OUTLIERS
+# =========================================
+
+plt.figure(figsize=(8,5))
+sns.boxplot(x=df['resolution_time'])
+plt.title('Boxplot - Tempo de Resolução')
+plt.show()
+
+# =========================================
+# CORRELAÇÃO
+# =========================================
+
+numeric_df = df.select_dtypes(include=np.number)
+
+plt.figure(figsize=(10,6))
+sns.heatmap(numeric_df.corr(), annot=True, cmap='coolwarm')
+plt.title('Heatmap de Correlação')
+plt.show()
+
+# =========================================
+# EXPORTAÇÃO
+# =========================================
+
+print('Análise exploratória concluída com sucesso!')
+
+E-mail para contato: samyacsdev@gmail.com - Samya
