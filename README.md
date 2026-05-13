@@ -15,6 +15,14 @@ Realizar análise exploratória de dados em tickets de suporte técnico utilizan
 
 ### Estrutura do Projeto
 
+Int. ANALISE TI
+
+README.md
+
+aa_dataset-tickets-multi-lang-5-2-50-version.csv
+
+imagens PJ APLI I- ANAL TI COM IA.pdf
+
 scripts = AED_tickets
 
 #### Resultados Esperados
