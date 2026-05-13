@@ -4,16 +4,18 @@
 
 Realizar análise exploratória de dados em tickets de suporte técnico utilizando Python e inteligência artificial.
 
-Tecnologias Utilizadas
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+# Tecnologias Utilizadas
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* plotly
 
 ### Estrutura do Projeto
-scripts/: scripts Python
-data/: datasets
+
+scripts = AED_tickets
 
 #### Resultados Esperados
 
