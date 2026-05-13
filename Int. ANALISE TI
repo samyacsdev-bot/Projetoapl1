@@ -1,0 +1,23 @@
+##Projeto APL II – Análise de Tickets de Suporte de TI com IA
+
+O objetivo deste projeto é usar Python, análise exploratória de dados (EDA) e princípios de inteligência artificial para analisar dados de tickets de suporte técnico.
+
+Técnicas de limpeza, tratamento e visualização de dados foram empregadas para reconhecer padrões operacionais, prioridades, pontos de estrangulamento no atendimento e possibilidades de automação no suporte de TI.
+
+# O projeto abrange:
+
+** Análise exploratória de dados (AED)
+** Estatísticas descritivas
+** Representações gráficas
+** Fluxo de trabalho analítico
+** Scripts Python estruturados
+** Estrutura preparada para o GitHub
+** Sugestão de automação utilizando inteligência artificial
+
+Tecnologias utilizadas:
+Python, Pandas, NumPy, Matplotlib, Seaborn e Jupyter
+
+O estudo foi desenvolvido com base no dataset “Customer IT Support - Ticket Dataset”, disponível no Kaggle, simulando cenários reais de suporte técnico multilíngue.
+
+
+E-mail para contato: samyacsdev@gmail.com - Samya
