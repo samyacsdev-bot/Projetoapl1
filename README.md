@@ -1,29 +1,42 @@
-# Projeto APL II – Análise de Tickets de TI
+# Projeto APL II – ANÁLISE DO SUPORTE DE TI EM TICKETS DE ATENDIMENTO UTILIZANDO IA
 
-## Objetivo
+# Sobre o Projeto 
 
-Realizar análise exploratória de dados em tickets de suporte técnico utilizando Python e inteligência artificial.
+Projeto Aplicado II desenvolvido no curso de Banco de Dados com foco em análise exploratória de dados aplicada ao suporte técnico de TI. O projeto utiliza Python e inteligência artificial para identificar padrões operacionais, gargalos e oportunidades de otimização no gerenciamento de tickets de atendimento.
 
-# Tecnologias Utilizadas
+# EMPRESA DE REFERÊNCIA
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* plotly
+A empresa utilizada como referência no estudo foi a TOTVS, líder brasileira em sistemas de gestão empresarial e soluções tecnológicas.
 
-### Estrutura do Projeto
+# 🎯 Objetivos
 
-Int. ANALISE TI
+Analisar dados de tickets de suporte técnico;
+Identificar padrões e gargalos operacionais;
+Avaliar tempo de resolução dos chamados;
+Desenvolver visualizações analíticas;
+Aplicar conceitos de inteligência artificial no suporte técnico;
+Auxiliar a tomada de decisão baseada em dados.
 
-README.md
+# 🛠️ Tecnologias e Ferramentas
 
-aa_dataset-tickets-multi-lang-5-2-50-version.csv
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+plotly
+Kaggle Dataset
 
-imagens PJ APLI I- ANAL TI COM IA.pdf
+# 📂 Estrutura do Repositório
 
-scripts = AED_tickets
+Projetoapl1/
+│
+├── Dados Visuais Estatísticos
+├── Int.ANALISAR TI
+├── README.md
+├── aa_dataset-tickets-multi-lang-5-2-50-version.csv
+├── imagens PJ APLI I- ANAL TI COM IA.pdf
+├── scripts = ingressos_AED
 
 #### Resultados Esperados
 
@@ -33,5 +46,14 @@ Análise do tempo de resolução
 Detecção de obstáculos
 Suporte para a tomada de decisões
 
-E-mail para contato:
-   samyacsdev@gmail.com - Samya
+# VÍDEO APRESENTAÇÃO
+
+https://youtu.be/MuScPeEOB2w 
+
+# AUTORA
+
+Samya Camily De Santana Silva
+
+E-mail para contato: samyacsdev@gmail.com
+
+Projeto Aplicado I – Curso de Banco de Dados
