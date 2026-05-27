@@ -31,11 +31,17 @@ Kaggle Dataset
 
 Projetoapl1/
 │
+│
 ├── Dados Visuais Estatísticos
+│
 ├── Int.ANALISAR TI
+│
 ├── README.md
+│
 ├── aa_dataset-tickets-multi-lang-5-2-50-version.csv
+│
 ├── imagens PJ APLI I- ANAL TI COM IA.pdf
+│
 ├── scripts = ingressos_AED
 
 #### Resultados Esperados
