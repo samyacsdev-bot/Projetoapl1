@@ -50,11 +50,7 @@ Reconhecimento de padrões operacionais
 Análise de prioridades
 Análise do tempo de resolução
 Detecção de obstáculos
-Suporte para a tomada de decisões
-
-# VÍDEO APRESENTAÇÃO
-
-https://youtu.be/MuScPeEOB2w 
+Suporte para a tomada de decisões 
 
 # AUTORA
 
