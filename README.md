@@ -44,7 +44,7 @@ Projetoapl1/
 │
 ├── scripts = ingressos_AED
 
-#### Resultados Esperados
+#### 📌 Resultados Esperados
 
 Reconhecimento de padrões operacionais
 Análise de prioridades
@@ -52,7 +52,11 @@ Análise do tempo de resolução
 Detecção de obstáculos
 Suporte para a tomada de decisões 
 
-# AUTORA
+#### 🎥 Vídeo Apresentação
+
+https://youtu.be/MuScPeEOB2w
+
+# 🖋️🖇️ AUTORA
 
 Samya Camily De Santana Silva
 
