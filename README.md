@@ -28,10 +28,9 @@ plotly
 Kaggle Dataset
 
 # 📂 Estrutura do Repositório
-
+    
 Projetoapl1/
-│
-│
+
 ├── Dados Visuais Estatísticos
 │
 ├── Int.ANALISAR TI
@@ -44,6 +43,8 @@ Projetoapl1/
 │
 ├── scripts = ingressos_AED
 
+
+
 #### 📌 Resultados Esperados
 
 Reconhecimento de padrões operacionais
@@ -52,9 +53,9 @@ Análise do tempo de resolução
 Detecção de obstáculos
 Suporte para a tomada de decisões 
 
-#### 🎥 Vídeo Apresentação
+#### 🎥 VÍDEO APRESENTAÇÃO
 
-https://youtu.be/MuScPeEOB2w
+https://youtu.be/4vBQpiMcscs 
 
 ### 🖋️🖇️ AUTORA
 
